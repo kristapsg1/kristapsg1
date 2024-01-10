@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kristaps</h1>
-<h3 align="center">Software Developer developer from Latvia</h3>
+<h3 align="center">Software Developer from Latvia</h3>
 <h5>I love coding and am always eager to improve myself. The world of programming fascinates me, and I enjoy the challenge of learning new things. Coding isn't just a job for me; it's a journey of personal growth. I constantly seek ways to enhance my skills, staying updated on the latest in the tech world. With each line of code, I see an opportunity to become better and more proficient.</h5>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
